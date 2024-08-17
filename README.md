@@ -1,2 +1,5 @@
 # react_intro
-formal tutorial from react home page: https://he.legacy.reactjs.org/tutorial/tutorial.html
+[Tutorial](https://he.legacy.reactjs.org/tutorial/tutorial.html)
+
+![notebook image](./img/react_notebook.jpeg)
+
